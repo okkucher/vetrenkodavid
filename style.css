@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-image: url("https://www.kv.by/sites/default/files/pictures/mainimage/2018/04/windows-10-smartscreen-52.jpg");height: 300px;}
+.button {
+    background-color: darkorange;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;}
+.nav-link {
+    font-size: 24px;
+    color: darkorange;
+    text-decoration: none;
+    display: block;}
+h2{text-align: center;}
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+.post-img{border-radius:100px;}
+p{text-align: center;}
+a{text-decoration: none;}
+.logo{border-radius: 50%;}
+p{font-size: xx-large;}
+h2{font-size: xx-large;}
+.button:hover{opacity: 0;}
+a{text-align: center;}
+body{background-color: lightskyblue;}
+section{display: flex;
+justify-content: space-around;}
+.aside-block{position: fixed; left: 1200px; top: 200px;background-color: darkorange;border-radius: 35%;}
+.post{
+    text-align: center;
+}
